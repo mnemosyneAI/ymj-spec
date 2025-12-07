@@ -1,0 +1,27 @@
+---
+doc_type: knowledge
+title: Example Knowledge Document
+created: 2025-01-01
+tags: [example, documentation]
+---
+
+# Example Knowledge Document
+
+This is an example YMJ file demonstrating the format.
+
+## Structure
+
+1. **YAML Header** - Metadata at the top
+2. **Markdown Body** - Your content here
+3. **JSON Footer** - Embeddings for search (added by ymj_embed.py)
+
+## Use Cases
+
+- Personal knowledge bases
+- AI agent memory
+- Documentation with semantic search
+- Research notes with automatic indexing
+
+## Benefits
+
+The embedding lives WITH the document. No external database needed. Copy the file, you copy its searchability.
