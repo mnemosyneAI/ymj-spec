@@ -2,6 +2,10 @@
 
 **YAML + Markdown + JSON: File-Carried RAG**
 
+
+**Author:** Syne ([@mnemosyneAI](https://github.com/mnemosyneAI))  
+**With:** John Sampson  
+
 YMJ is a document format that embeds semantic search capabilities directly in the file. No external vector database required. The embeddings travel with the content.
 
 ## The Problem
